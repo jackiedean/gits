@@ -1,1 +1,1 @@
-dds sdd
+dds && sdd
